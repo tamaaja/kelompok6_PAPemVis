@@ -1,0 +1,77 @@
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\bin\Debug\kelompok6.exe.config
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\bin\Debug\kelompok6.exe
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\bin\Debug\kelompok6.pdb
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\bin\Debug\kelompok6.xml
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.Resources.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.vbproj.GenerateResource.Cache
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.exe
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.xml
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.pdb
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.FormLogin.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.FormRegis.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\bin\Debug\mysql.data.dll
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.vbprojResolveAssemblyReference.cache
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.MenuUser.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.MenuAdmin.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\praktikum\kelompok6\kelompok6\obj\Debug\kelompok6.DataPelanggan.resources
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.exe.config
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.exe
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.xml
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.pdb
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.exe
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.pdb
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.xml
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.vbprojResolveAssemblyReference.cache
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.DataPelanggan.resources
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.FormLogin.resources
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.FormRegis.resources
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.MenuAdmin.resources
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.MenuUser.resources
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.Resources.resources
+C:\Users\TUF\Downloads\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.vbproj.GenerateResource.Cache
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.exe.config
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.exe
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.xml
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.pdb
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.exe
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.pdb
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.xml
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.vbprojResolveAssemblyReference.cache
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.DataPelanggan.resources
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.FormLogin.resources
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.FormRegis.resources
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.MenuAdmin.resources
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.MenuUser.resources
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.Resources.resources
+C:\Users\BICOM\Documents\Visual Studio 2012\Projects\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.vbproj.GenerateResource.Cache
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.exe.config
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.exe
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.xml
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.pdb
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.exe
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.pdb
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\bin\Debug\kelompok6.xml
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.vbprojResolveAssemblyReference.cache
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.DataPelanggan.resources
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.FormLogin.resources
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.FormRegis.resources
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.MenuAdmin.resources
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.MenuUser.resources
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.Resources.resources
+C:\Users\TUF\Downloads\kelompok6tamsu\kelompok6nopaltama\kelompok6nopaltama\kelompok6\kelompok6\obj\Debug\kelompok6.vbproj.GenerateResource.Cache
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\bin\Debug\kelompok6.exe.config
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.exe
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.xml
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.pdb
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\bin\Debug\kelompok6.exe
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\bin\Debug\kelompok6.pdb
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\bin\Debug\kelompok6.xml
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.vbprojResolveAssemblyReference.cache
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.DataPelanggan.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.FormLogin.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.FormRegis.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.MenuAdmin.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.MenuUser.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.Resources.resources
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.vbproj.GenerateResource.Cache
+C:\Users\DINDA AYU\OneDrive\Documents\1.semester4\Pemrograman Visual\PA PemVis\terakhir\kelompok6\kelompok6\obj\Debug\kelompok6.Struk.resources
